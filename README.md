@@ -1,2 +1,2 @@
 # SwirtMart
-SwirtMart là dự án flutter shopping app được triển khai bởi team 3 người gồm Khải, Thanh Hiền và Ngọc Hiền.
+SwirtMart is a flutter shopping app project implemented by a team of three people including Khải, Thanh Hiền, and Ngọc Hiền.
